@@ -5,8 +5,6 @@ date:   2016-05-29 12:33:11 +0900
 categories: vscode
 ---
 
-# Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか
-
 (ちょっと Markdown の記述が変すぎたので、[markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) 入れて出直してみました)
 
 Visual Studio Code を Markdown 以外で利用する機会があり、個人的に馴染みのない用語がたくさん出てきたので少しまとめてみた。
@@ -14,7 +12,7 @@ Visual Studio Code を Markdown 以外で利用する機会があり、個人的
 
 マニュアルとしては、 [Get started with Visual Studio Code](https://code.visualstudio.com/Docs) になる。
 
-## **Visual Studio Code Insiders Build のマニュアル**
+## Visual Studio Code Insiders Build のマニュアル
 
 また、[Insiders Build](https://code.visualstudio.com/download?insiders=true) と呼ばれる Early Access 版があり、こちらのマニュアルはどんどん更新されている。
 
@@ -25,7 +23,7 @@ Visual Studio Code の Tips がまとめられた eBook が Microsoft から提�
 * [eBook: Visual Studio Code - Tips & Tricks Vol. 1](https://www.microsoft.com/germany/techwiese/aktionen/visual-studio-code-ebook-download.aspx)
 * [Visual Studio Code 1st Step Guide](Guidehttps://download.microsoft.com/download/3/6/F/36FE7C6C-2CDB-44B1-AB66-079E6E9DD219/Visual_Studio_Code_1st_Step_Guide_FullContents.pdf)
 
-## **Visual Studio Code の機能**
+## Visual Studio Code の機能
 
 ### [Files, Folders & Projects](https://code.visualstudio.com/docs/editor/codebasics#_files-folders-projects)
 
