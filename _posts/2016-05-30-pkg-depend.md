@@ -1,8 +1,6 @@
 ﻿---
 layout: post
 title:  "IPS パッケージの依存関係だけを抜き出してみる"
-date:   2016-05-30 12:11:00 +0900
-categories: solaris
 ---
 
 
