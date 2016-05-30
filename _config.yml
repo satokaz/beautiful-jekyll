@@ -72,6 +72,7 @@ url-pretty: "satokaz.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+encoding: utf-8
 timezone: JPN
 markdown: kramdown
 highlighter: rouge
