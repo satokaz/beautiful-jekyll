@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [vscode] Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか
+title:  "[vscode] Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか"
 date:   2016-05-29 12:33:11 +0900
 categories: vscode
 ---
