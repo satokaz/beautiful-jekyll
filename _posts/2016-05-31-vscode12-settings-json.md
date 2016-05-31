@@ -5,6 +5,7 @@ title:  "[vscode] Visual Studio Code Insiders 1.2 で settings.json に追加さ
 categories: vscode
 ---
 
+あ
 Visual Studio Code stable 1.1.1 と Visual Studio Code Insiders 1.2.0 の settings.json 差分。
 差分は、CLI (code or code-insiders) に --disable-extensions を付けてとったもの。
 
