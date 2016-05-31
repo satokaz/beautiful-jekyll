@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "[MacBook] gfxCardStatus を強化した gfxCardStatus.i"
 date:   2016-05-30 07:48:00 +0900
