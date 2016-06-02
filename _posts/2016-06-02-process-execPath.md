@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "[vscode] Stable or Insiders build どちらを使っているか判定してみる
+title:  "[vscode] Stable or Insiders build どちらを使っているか判定してみる"
 categories: vscode
 ---
 
