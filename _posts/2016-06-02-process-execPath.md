@@ -36,7 +36,7 @@ Mac OS X の例。
 
 ```js
     // Stable or Insiders build? 
-    if ((process.execPath).match(/Insiders/)) {
+    if ((process.execPath).match(/Insiders/ig)) {
       console.log('Insiders 使ってますね ');
     } 
 ```
