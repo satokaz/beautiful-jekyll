@@ -39,5 +39,7 @@ markdown editor として利用しはじめた Visual Studio Code だけど、�
   * [https://github.com/satokaz/insert-date](https://github.com/satokaz/insert-date)
   * カーソルがいる場所に日付と時刻を挿入するエクステンション。見よう見ままねで作成。
 * vscode-toggleProxy
+  * [https://marketplace.visualstudio.com/items?itemName=satokaz.vscode-toggleproxy](https://marketplace.visualstudio.com/items?itemName=satokaz.vscode-toggleproxy)
   * [https://github.com/satokaz/vscode-toggleProxy](https://github.com/satokaz/vscode-toggleProxy)
-  * settings.json にある http.proxy 設定をステータスバーの地球アイコンで on/off するエクステンション。settings.json の入れ替え処理を atomic にできていない気がするので怖いひ・・・
+  * ちょーニッチというか、オレ得な感じですが、settings.json にある http.proxy 設定をステータスバーの地球アイコンで on/off するエクステンション。会社と家の環境違うので毎回切り替えるのが面倒だなと、面倒なエクステンション作成にとりかかってみた。
+  settings.json の入れ替え処理を atomic にできていない気がするので怖いひ・・・
