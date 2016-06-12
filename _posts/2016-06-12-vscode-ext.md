@@ -27,6 +27,8 @@ markdown editor として利用しはじめた Visual Studio Code だけど、�
   * [https://github.com/dbankier/vscode-gist](https://github.com/dbankier/vscode-gist)
   * secret gist が public gist になってしまう問題の対応
     * [PRIVATE gist is public #4](https://github.com/dbankier/vscode-gist/issues/4)
+  * 作者さん、やっぱり vim にもどっちゃうということで、メンテ引き受けてくれる人を募集中
+    * [https://gist.github.com/dbankier/5d3e699360419cb291b0f1e3724f5fde](https://gist.github.com/dbankier/5d3e699360419cb291b0f1e3724f5fde)
 * MarkdownTOC(Table Of Contents) Plugin for Visual Studio Code.
   * [https://github.com/AlanWalk/Markdown-TOC](https://github.com/AlanWalk/Markdown-TOC)
   * codeblocks がエラーになるので、その対策を PR
