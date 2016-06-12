@@ -3,8 +3,10 @@ layout: post
 title:  "[vscode] 勉強に利用した Visual Studio Code の Extension"
 ---
 
-Visual Studio Code のエクステンション機能の source code を参考にして勉強している中で、Extensin そのものを修正してたりしてしまったので、記念にリスト化してみる。
+markdown editor として利用しはじめた Visual Studio Code だけど、エクステンション機能が実装されてから、いろいろと source code を参考にして勉強している中で、Extensin そのものを修正してたりしてしまう事案がいくつか。記念にリスト化してみる。
+
 いつのまにか、Extension のために Javascript や Typescript を勉強しはじめているオレがいた・・・
+目標としては、Solaris と色々と絡めたいと思ってはいるが、いまのところ markdown で Solaris 関連のドキュメント書くのがせいいっぱいw
 
 ## Issue や PR したエクステンション
 
