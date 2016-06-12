@@ -10,11 +10,13 @@ Visual Studio Code のエクステンション機能の source code を参考に
 
 * vscode-pandoc
   * [https://github.com/dfinke/vscode-pandoc](https://github.com/dfinke/vscode-pandoc)
-  * OS X での挙動確認とオプションを個別に記述できるように機能を追加。
-   はじめて PR に挑戦。 
+  * OS X での挙動確認とオプションを個別に記述できるように機能を追加。はじめて PR に挑戦。 
+    * [does not work with Mac OS X #2](https://github.com/dfinke/vscode-pandoc/issues/2)
+    * [Setting additional pandoc options #5](https://github.com/dfinke/vscode-pandoc/issues/5)
 * Project Manager Extension for Visual Studio Code
   * [https://github.com/alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)
   * こちらも Mac OS X で動作するようにお手伝い
+    * [Project switching does not work #7](https://github.com/alefragnani/vscode-project-manager/issues/7)
 * vscode-ext-yandex-translate
   * [https://github.com/airstep/vscode-ext-yandex-translate](https://github.com/airstep/vscode-ext-yandex-translate)
   * 日本語も変換候補として対応していたので追加してもらう
